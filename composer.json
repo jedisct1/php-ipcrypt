@@ -1,5 +1,5 @@
 {
-    "name": "ipcrypt/php",
+    "name": "jedisct1/ipcrypt",
     "description": "IP Address Encryption and Obfuscation",
     "type": "library",
     "license": "MIT",
