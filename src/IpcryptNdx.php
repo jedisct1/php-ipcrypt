@@ -27,7 +27,7 @@ use RuntimeException;
  * Implementation Details:
  * - Uses AES-128 as base cipher
  * - Implements full XTS mode
- * - Supports batch processing with optional shared tweak
+ * - Supports batch processing
  * - Format-preserving for IPv4/IPv6
  */
 class IpcryptNdx extends AbstractIpcrypt

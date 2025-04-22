@@ -27,7 +27,7 @@ use RuntimeException;
  * Implementation Details:
  * - Uses AES-128 as base cipher
  * - Implements full KIASU-BC algorithm
- * - Supports batch processing with optional shared tweak
+ * - Supports batch processing
  * - Format-preserving for IPv4/IPv6
  */
 class IpcryptNd extends AbstractIpcrypt
