@@ -22,7 +22,7 @@ This is a PHP implementation of IPcrypt, which provides methods for encrypting a
 ## Installation
 
 ```sh
-composer require ipcrypt/php
+composer require jedisct1/ipcrypt
 ```
 
 ## Usage
